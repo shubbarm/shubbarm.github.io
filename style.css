@@ -1,0 +1,56 @@
+/* Overall style for any imported component */
+
+
+html {
+    scroll-behavior: smooth;
+    font-size: 100%;
+  }
+  
+  body {
+  
+    /* font: 1.0rem Inconsolata, monospace; */
+    font-family: 'Saira', sans-serif;
+    background-color: #212529;
+  }
+  
+  a{
+    text-decoration: none !important;
+  }
+  
+  
+  .typedjs {
+    font-size: 1.30rem;
+  }
+  
+  
+  
+  .title-name, .title-name a, title-name a:hover {
+    font-weight: bold;
+    font-size: 1.7rem;
+    color: #F8F8F9;
+    text-decoration: none;
+  }
+  
+  .Typewriter__cursor {
+    font-weight: bold;
+    color: #10ff00;
+    font-size: 1.6rem;
+  }
+  
+  .fa-terminal {
+    color: #10ff00;
+  }
+  
+  .Typewriter {
+    font-size: 1.2rem;
+  }
+  
+  .section-titles-links {
+    color: #f8f9fa;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  
+  .section-titles-links:hover {
+    color: #10ff00;
+  }
